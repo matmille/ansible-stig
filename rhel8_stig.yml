@@ -2,6 +2,6 @@
   tasks:
      - include_role: 
          name: RedHatOfficial.rhel8_stig
-         tasks_from: rhel8_stig
+         tasks_from: main
        tags: begin
 
