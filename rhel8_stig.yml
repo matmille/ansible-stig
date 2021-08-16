@@ -2,5 +2,5 @@
   tasks:
      - include_role: 
          name: RedHatOfficial.rhel8_stig
-       tags: begin
+        tags: always
 
