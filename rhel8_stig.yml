@@ -1,4 +1,4 @@
 - hosts: all
   roles:
-    - RedHatOfficial.rhel8_stig
+     - { role: RedHatOfficial.rhel8_stig }
 
